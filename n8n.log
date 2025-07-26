@@ -1,0 +1,166 @@
+npm warn exec The following package was not found and will be installed: n8n@1.103.2
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @browserbasehq/stagehand@1.14.0
+npm warn Found: openai@5.8.1
+npm warn node_modules/@n8n/n8n-nodes-langchain/node_modules/openai
+npm warn   openai@"5.8.1" from @n8n/n8n-nodes-langchain@1.102.1
+npm warn   node_modules/@n8n/n8n-nodes-langchain
+npm warn     @n8n/n8n-nodes-langchain@"1.102.1" from n8n@1.103.2
+npm warn     node_modules/n8n
+npm warn   1 more (@langchain/community)
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer openai@"^4.62.1" from @browserbasehq/stagehand@1.14.0
+npm warn node_modules/@n8n/n8n-nodes-langchain/node_modules/@browserbasehq/stagehand
+npm warn   peer @browserbasehq/stagehand@"^1.0.0" from @langchain/community@0.3.47
+npm warn   node_modules/@n8n/n8n-nodes-langchain/node_modules/@langchain/community
+npm warn
+npm warn Conflicting peer dependency: openai@4.104.0
+npm warn node_modules/openai
+npm warn   peer openai@"^4.62.1" from @browserbasehq/stagehand@1.14.0
+npm warn   node_modules/@n8n/n8n-nodes-langchain/node_modules/@browserbasehq/stagehand
+npm warn     peer @browserbasehq/stagehand@"^1.0.0" from @langchain/community@0.3.47
+npm warn     node_modules/@n8n/n8n-nodes-langchain/node_modules/@langchain/community
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @langchain/community@0.3.47
+npm warn Found: @huggingface/inference@2.8.0
+npm warn node_modules/@huggingface/inference
+npm warn   @huggingface/inference@"2.8.0" from @n8n/n8n-nodes-langchain@1.102.1
+npm warn   node_modules/@n8n/n8n-nodes-langchain
+npm warn     @n8n/n8n-nodes-langchain@"1.102.1" from n8n@1.103.2
+npm warn     node_modules/n8n
+npm warn
+npm warn Could not resolve dependency:
+npm warn peerOptional @huggingface/inference@"^4.0.5" from @langchain/community@0.3.47
+npm warn node_modules/@n8n/n8n-nodes-langchain/node_modules/@langchain/community
+npm warn   @langchain/community@"0.3.47" from @n8n/n8n-nodes-langchain@1.102.1
+npm warn   node_modules/@n8n/n8n-nodes-langchain
+npm warn
+npm warn Conflicting peer dependency: @huggingface/inference@4.5.3
+npm warn node_modules/@huggingface/inference
+npm warn   peerOptional @huggingface/inference@"^4.0.5" from @langchain/community@0.3.47
+npm warn   node_modules/@n8n/n8n-nodes-langchain/node_modules/@langchain/community
+npm warn     @langchain/community@"0.3.47" from @n8n/n8n-nodes-langchain@1.102.1
+npm warn     node_modules/@n8n/n8n-nodes-langchain
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @langchain/community@0.3.47
+npm warn Found: mongodb@6.11.0
+npm warn node_modules/@n8n/n8n-nodes-langchain/node_modules/mongodb
+npm warn   mongodb@"6.11.0" from @n8n/n8n-nodes-langchain@1.102.1
+npm warn   node_modules/@n8n/n8n-nodes-langchain
+npm warn     @n8n/n8n-nodes-langchain@"1.102.1" from n8n@1.103.2
+npm warn     node_modules/n8n
+npm warn
+npm warn Could not resolve dependency:
+npm warn peerOptional mongodb@"^6.17.0" from @langchain/community@0.3.47
+npm warn node_modules/@n8n/n8n-nodes-langchain/node_modules/@langchain/community
+npm warn   @langchain/community@"0.3.47" from @n8n/n8n-nodes-langchain@1.102.1
+npm warn   node_modules/@n8n/n8n-nodes-langchain
+npm warn
+npm warn Conflicting peer dependency: mongodb@6.18.0
+npm warn node_modules/mongodb
+npm warn   peerOptional mongodb@"^6.17.0" from @langchain/community@0.3.47
+npm warn   node_modules/@n8n/n8n-nodes-langchain/node_modules/@langchain/community
+npm warn     @langchain/community@"0.3.47" from @n8n/n8n-nodes-langchain@1.102.1
+npm warn     node_modules/@n8n/n8n-nodes-langchain
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+npm warn deprecated lodash.get@4.4.2: This package is deprecated. Use the optional chaining (?.) operator instead.
+npm warn deprecated npmlog@6.0.2: This package is no longer supported.
+npm warn deprecated rimraf@2.6.3: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated are-we-there-yet@3.0.1: This package is no longer supported.
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated @aws-sdk/protocol-http@3.374.0: This package has moved to @smithy/protocol-http
+npm warn deprecated @aws-sdk/signature-v4@3.374.0: This package has moved to @smithy/signature-v4
+npm warn deprecated gauge@4.0.4: This package is no longer supported.
+npm warn deprecated gm@1.25.1: The gm module has been sunset. Please migrate to an alternative. https://github.com/aheckmann/gm?tab=readme-ov-file#2025-02-24-this-project-is-not-maintained
+npm warn deprecated node-domexception@1.0.0: Use your platform's native DOMException instead
+npm warn deprecated infisical-node@1.3.0: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
+Permissions 0644 for n8n settings file /Users/treymossman/.n8n/config are too wide. This is ignored for now, but in the future n8n will attempt to change the permissions automatically. To automatically enforce correct permissions now set N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=true (recommended), or turn this check off set N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=false.
+Initializing n8n process
+n8n ready on ::, port 5678
+
+There is a deprecation related to your environment variables. Please take the recommended actions to update your configuration:
+ - N8N_RUNNERS_ENABLED -> Running n8n without task runners is deprecated. Task runners will be turned on by default in a future version. Please set `N8N_RUNNERS_ENABLED=true` to enable task runners now and avoid potential issues in the future. Learn more: https://docs.n8n.io/hosting/configuration/task-runners/
+
+[license SDK] Skipping renewal on init because renewal is not due yet or cert is not initialized
+Version: 1.103.2
+
+Editor is now accessible via:
+http://localhost:5678
+Credential with ID "qCqxDxnb5C1GdLLy" does not exist for type "openAiApi".
+Could not find property option
+Error: Could not find property option
+    at getNodeParameters (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/node-helpers.ts:847:14)
+    at getNodeParameters (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/node-helpers.ts:778:32)
+    at /Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/telemetry-helpers.ts:391:46
+    at Array.forEach (<anonymous>)
+    at Object.generateNodesGraph (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/telemetry-helpers.ts:229:13)
+    at TelemetryEventRelay.workflowSaved (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/telemetry.event-relay.ts:583:42)
+    at workflow-saved (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/telemetry.event-relay.ts:87:50)
+    at EventService.<anonymous> (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/event-relay.ts:19:11)
+    at EventService.emit (node:events:519:35)
+    at EventService.emit (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/typed-emitter.ts:38:16)
+
+Could not find property option
+Error: Could not find property option
+    at getNodeParameters (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/node-helpers.ts:847:14)
+    at getNodeParameters (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/node-helpers.ts:778:32)
+    at /Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/telemetry-helpers.ts:391:46
+    at Array.forEach (<anonymous>)
+    at Object.generateNodesGraph (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/telemetry-helpers.ts:229:13)
+    at TelemetryEventRelay.workflowSaved (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/telemetry.event-relay.ts:583:42)
+    at workflow-saved (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/telemetry.event-relay.ts:87:50)
+    at EventService.<anonymous> (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/event-relay.ts:19:11)
+    at EventService.emit (node:events:519:35)
+    at EventService.emit (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/typed-emitter.ts:38:16)
+
+Could not find property option
+Error: Could not find property option
+    at getNodeParameters (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/node-helpers.ts:847:14)
+    at getNodeParameters (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/node-helpers.ts:778:32)
+    at /Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/telemetry-helpers.ts:391:46
+    at Array.forEach (<anonymous>)
+    at Object.generateNodesGraph (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/telemetry-helpers.ts:229:13)
+    at TelemetryEventRelay.workflowSaved (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/telemetry.event-relay.ts:583:42)
+    at workflow-saved (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/telemetry.event-relay.ts:87:50)
+    at EventService.<anonymous> (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/event-relay.ts:19:11)
+    at EventService.emit (node:events:519:35)
+    at EventService.emit (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/typed-emitter.ts:38:16)
+
+Could not find property option
+Error: Could not find property option
+    at getNodeParameters (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/node-helpers.ts:847:14)
+    at getNodeParameters (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/node-helpers.ts:778:32)
+    at /Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/telemetry-helpers.ts:391:46
+    at Array.forEach (<anonymous>)
+    at Object.generateNodesGraph (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/telemetry-helpers.ts:229:13)
+    at TelemetryEventRelay.workflowSaved (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/telemetry.event-relay.ts:583:42)
+    at workflow-saved (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/telemetry.event-relay.ts:87:50)
+    at EventService.<anonymous> (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/event-relay.ts:19:11)
+    at EventService.emit (node:events:519:35)
+    at EventService.emit (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/typed-emitter.ts:38:16)
+
+Could not find property option
+Error: Could not find property option
+    at getNodeParameters (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/node-helpers.ts:847:14)
+    at getNodeParameters (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/node-helpers.ts:778:32)
+    at /Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/telemetry-helpers.ts:391:46
+    at Array.forEach (<anonymous>)
+    at Object.generateNodesGraph (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n-workflow/src/telemetry-helpers.ts:229:13)
+    at TelemetryEventRelay.workflowSaved (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/telemetry.event-relay.ts:583:42)
+    at workflow-saved (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/telemetry.event-relay.ts:87:50)
+    at EventService.<anonymous> (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/events/relays/event-relay.ts:19:11)
+    at EventService.emit (node:events:519:35)
+    at EventService.emit (/Users/treymossman/.npm/_npx/a8a7eec953f1f314/node_modules/n8n/src/typed-emitter.ts:38:16)
+

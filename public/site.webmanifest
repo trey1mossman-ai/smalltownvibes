@@ -1,0 +1,16 @@
+{
+  "name": "Small Town Vibes - Castle Rock",
+  "short_name": "Small Town Vibes",
+  "description": "Castle Rock local business directory - Shop local, dine downtown, explore Castle Rock Colorado",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#D96547",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

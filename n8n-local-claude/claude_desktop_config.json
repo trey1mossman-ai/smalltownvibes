@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "n8n-local": {
+      "command": "npx",
+      "args": [
+        "@cloudflare/mcp-server-n8n@latest",
+        "--api-key",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJlMWJlNmIzNy1lMmM4LTRjZmMtYmJkZi03OWI0M2FlNmU5NGYiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwiaWF0IjoxNzUzNDc0NDY1LCJleHAiOjE3NTYwMDgwMDB9.N8ExWGXn2x7k29GEq4Ojk-nLtx8dokKsEHSfQ9tZTlM",
+        "--base-url",
+        "http://localhost:5678"
+      ]
+    }
+  }
+}

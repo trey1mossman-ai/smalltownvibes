@@ -1,0 +1,6 @@
+TODO: Add og-image.jpg
+- Size: 1200x630px
+- Include: Small Town Vibes logo/branding
+- Text: "Discover Castle Rock's Local Businesses"
+- Subtext: "Shop Local • Dine Downtown • Explore Castle Rock"
+- Use brand colors: #D96547 (primary) and #DAA520 (accent)
